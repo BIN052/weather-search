@@ -1,0 +1,38 @@
+# Weather Search Application
+
+A Python command-line application that allows users to search for the current weather in a city using the Open-Meteo API.
+
+## Description
+
+The user enters the name of a city. The application uses the Open-Meteo Geocoding API to find the city's latitude and longitude. It then uses the Open-Meteo Weather Forecast API to retrieve the current weather.
+
+The application displays:
+
+- Temperature
+- Weather condition
+- Humidity
+- Wind speed
+
+## APIs Used
+
+### Geocoding API
+
+The Geocoding API is used to find the latitude and longitude of the city entered by the user.
+
+### Weather Forecast API
+
+The Weather Forecast API is used to retrieve the current weather information using the city's latitude and longitude.
+
+## How to Run
+
+1. Install Python 3.12 or higher.
+2. Install the requests package:
+3. Run the application:
+```bash
+python -m pip install requests
+
+4. Enter a city name to search for current weather.
+5. Type exit to quit the application.
+
+Issues:
+Issue:
