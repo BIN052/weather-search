@@ -13,9 +13,7 @@ The application displays:
 - Humidity
 - Wind speed
 
-## APIs Used
-
-### Geocoding API
+## APIs Used : Geocoding API
 
 The Geocoding API is used to find the latitude and longitude of the city entered by the user.
 
@@ -35,4 +33,6 @@ python -m pip install requests
 5. Type exit to quit the application.
 
 Issues:
-Issue:
+Issue: I had difficulty finding an API to use and learning how to use it for Lab 4.
+Solution: By reviewing the instructor’s Lab 4 instructions, I gained some additional experience and a better
+understanding of how to complete the assignment.
